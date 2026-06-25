@@ -1,20 +1,20 @@
 {
   "site": {
-    "brandName": "Atharva.dev",
-    "loadingName": "Atharva",
-    "loadingNameSuffix": ".dev",
-    "loadingTagline": "Building the future with code"
+    "brandName": "Nahid Ahmadvand",
+    "loadingName": "Nahid",
+    "loadingNameSuffix": " Ahmadvand",
+    "loadingTagline": "Data Science & Machine Learning"
   },
   "hero": {
     "greeting": "👋 Welcome to my portfolio",
-    "name": "Atharva",
+    "name": "Nahid",
     "taglines": [
-      "Full Stack Developer 🚀",
-      "Machine Learning Engineer 🤖",
-      "Problem Solver 💡",
-      "Tech Explorer 🌟"
+      "Data Science & Machine Learning",
+      "NLP & Model Evaluation",
+      "Physics & Quantum Information Background",
+      "Formula 1 Analytics"
     ],
-    "bio": "Passionate developer from Pune, crafting beautiful and functional web experiences. Turning ideas into reality with clean code and modern design.",
+    "bio": "I focus on data science and machine learning, building hands-on projects that emphasize analytical thinking, reliable evaluation, and clear communication of results.",
     "ctaButtons": [
       {
         "label": "Get In Touch",
@@ -30,351 +30,363 @@
     "socialLinks": [
       {
         "platform": "github",
-        "url": "https://github.com/Atharva0177"
+        "url": "https://github.com/Nahid-ahmdv"
       },
       {
         "platform": "linkedin",
-        "url": "https://www.linkedin.com/in/atharva-mandavkar-b66b94179"
+        "url": "https://www.linkedin.com/in/nahid-ahmadvand-00382b365/"
       },
       {
-        "platform": "instagram",
-        "url": "https://www.instagram.com/atharva__177/"
+        "platform": "medium",
+        "url": "https://medium.com/@nahid.nm57"
       }
     ]
   },
-  "about": {
-    "subtitle": "Electronics Engineer | AI-ML Enthusiast | Problem Solver",
-    "stats": [
-      {
-        "label": "Projects Completed",
-        "value": "10+",
-        "icon": "FaCode",
-        "color": "text-blue-400"
-      },
-      {
-        "label": "Hackathons Won",
-        "value": "3",
-        "icon": "FaTrophy",
-        "color": "text-yellow-400"
-      },
-      {
-        "label": "Patents Filed",
-        "value": "1",
-        "icon": "FaAward",
-        "color": "text-green-400"
-      },
-      {
-        "label": "CGPA",
-        "value": "8.85",
-        "icon": "FaGraduationCap",
-        "color": "text-purple-400"
-      }
-    ],
-    "profileImage": "https://github.com/Atharva0177.png",
-    "fullName": "Atharva Mandavkar",
-    "title": "B.Tech ECE | MIT WPU",
-    "availability": "Available for opportunities",
-    "location": "Pune, Maharashtra",
-    "graduationDate": "Graduated March 2025",
-    "workStatus": "Open to Work",
-    "email": "mandavkaratharva@gmail.com",
-    "phone": "+91 7972326112",
-    "socialLinks": [
-      {
-        "platform": "github",
-        "url": "https://github.com/Atharva0177",
-        "label": "GitHub"
-      },
-      {
-        "platform": "linkedin",
-        "url": "https://linkedin.com/in/atharva-mandavkar",
-        "label": "LinkedIn"
-      },
-      {
-        "platform": "email",
-        "url": "mailto:mandavkaratharva@gmail.com",
-        "label": "Email"
-      }
-    ],
-    "topSkills": [
-      {
-        "name": "Python",
-        "level": 95
-      },
-      {
-        "name": "Machine Learning",
-        "level": 90
-      },
-      {
-        "name": "FullStack Development",
-        "level": 85
-      },
-      {
-        "name": "Cloud (AWS)",
-        "level": 80
-      }
-    ],
-    "languages": [
-      {
-        "name": "English",
-        "level": "Fluent"
-      },
-      {
-        "name": "Hindi",
-        "level": "Native"
-      },
-      {
-        "name": "Marathi",
-        "level": "Native"
-      }
-    ],
-    "bio": [
-      "👋 Hi! I'm <strong>Atharva Mandavkar</strong>, a passionate Electronics and Communication Engineering student from <span class=\"text-blue-400\">MIT World Peace University, Pune</span>, graduating in March 2025.",
-      "🚀 I specialize in <strong class=\"text-green-400\">Machine Learning</strong>, <strong class=\"text-purple-400\">Computer Vision</strong>, and <strong class=\"text-yellow-400\">IoT Systems</strong>. My journey has been driven by a desire to solve real-world problems using AI and embedded technologies.",
-      "🏆 I've had the privilege of winning multiple national hackathons including <strong class=\"text-yellow-400\">Smart India Hackathon 2023</strong> and <strong class=\"text-blue-400\">eYantra Innovation Challenge 2023-24</strong>, where our team won the Best Implementation Award at the National Finals.",
-      "🤖 Recently achieved a significant milestone with a <strong class=\"text-purple-400\">published patent</strong> on <strong class=\"text-cyan-400\">\"AI-Driven Crime Detection using Existing CCTV Networks\"</strong> (Publication No: 03/2026). The system leverages advanced machine learning and video transformers to enhance surveillance with real-time anomaly detection and intelligent alerting.",
-      "💡 My expertise lies in developing end-to-end AI-ML solutions—from training deep learning models using <span class=\"text-pink-400\">PyTorch</span> and <span class=\"text-orange-400\">YOLOv8</span> to deploying them on edge devices like Raspberry Pi and STM32 microcontrollers.",
-      "🎯 When I'm not coding, I'm exploring new technologies, participating in workshops, or contributing to innovative projects that make a difference. I believe in continuous learning and pushing the boundaries of what's possible with technology."
-    ],
-    "expertise": [
-      {
-        "title": "Machine Learning & AI",
-        "description": "Deep Learning, Computer Vision, NLP",
-        "icon": "🤖",
-        "skills": [
-          "PyTorch",
-          "TensorFlow",
-          "YOLOv8",
-          "ViViT",
-          "HuggingFace"
-        ]
-      },
-      {
-        "title": "Programming",
-        "description": "Multiple languages & frameworks",
-        "icon": "💻",
-        "skills": [
-          "Python",
-          "C/C++",
-          "MATLAB",
-          "R",
-          "HTML/CSS"
-        ]
-      },
-      {
-        "title": "Cloud & Databases",
-        "description": "AWS & Database Management",
-        "icon": "☁️",
-        "skills": [
-          "AWS DynamoDB",
-          "MySQL",
-          "MongoDB",
-          "PythonAnywhere"
-        ]
-      },
-      {
-        "title": "IoT & Embedded Systems",
-        "description": "Hardware integration & protocols",
-        "icon": "🔧",
-        "skills": [
-          "Raspberry Pi",
-          "STM32",
-          "Modbus",
-          "MQTT",
-          "OpenCV"
-        ]
-      }
-    ],
-    "education": [
-      {
-        "degree": "B.Tech in Electronics & Communication",
-        "institution": "MIT World Peace University, Pune",
-        "period": "August 2019 - March 2025",
-        "grade": "CGPA: 8.85/10",
-        "color": "from-blue-500 to-cyan-500"
-      },
-      {
-        "degree": "Higher Secondary Education (12th)",
-        "institution": "Namo Rims Jr. College, Pune",
-        "period": "August 2019 - July 2021",
-        "grade": "91.50%",
-        "color": "from-purple-500 to-pink-500"
-      },
-      {
-        "degree": "Secondary Education (10th)",
-        "institution": "Sacred Heart Convent High School",
-        "period": "Completed",
-        "grade": "93.20%",
-        "color": "from-green-500 to-teal-500"
-      }
-    ],
-    "highlights": [
-      {
-        "emoji": "🏆",
-        "title": "Smart India Hackathon 2023",
-        "description": "Selected for National Level",
-        "bgColor": "bg-yellow-500/10",
-        "borderColor": "border-yellow-500/20",
-        "hoverColor": "hover:bg-yellow-500/20"
-      },
-      {
-        "emoji": "🥇",
-        "title": "eYantra Innovation Challenge",
-        "description": "Best Implementation Award (National Finals)",
-        "bgColor": "bg-blue-500/10",
-        "borderColor": "border-blue-500/20",
-        "hoverColor": "hover:bg-blue-500/20"
-      },
-      {
-        "emoji": "📜",
-        "title": "Patent Published",
-        "description": "AI-Driven Crime Detection System (Jan 2026)",
-        "bgColor": "bg-purple-500/10",
-        "borderColor": "border-purple-500/20",
-        "hoverColor": "hover:bg-purple-500/20"
-      },
-      {
-        "emoji": "🎓",
-        "title": "MITWPU Workathon",
-        "description": "Winner (University Finals)",
-        "bgColor": "bg-green-500/10",
-        "borderColor": "border-green-500/20",
-        "hoverColor": "hover:bg-green-500/20"
-      }
-    ]
-  },
-  "projects": [
+"about": {
+  "subtitle": "Data Science & Machine Learning | Physics & Quantum Information",
+  "stats": [
     {
-      "id": 1,
-      "title": "NAS Network Attached Storage",
-      "description": "A self-hosted file browser for local drives with authentication, role-based permissions, thumbnails, streaming, and search.",
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800",
-      "tech": [
-        "Python",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "github": "https://github.com/Atharva0177/NAS-Network-Attached-Storage",
-      "color": ""
+      "label": "ML Projects",
+      "value": "10+",
+      "icon": "FaCode",
+      "color": "text-blue-400"
     },
     {
-      "id": 2,
-      "title": "Secure Vault Pro",
-      "description": "A modern, feature-rich file encryption and data protection application with advanced security features including folder encryption, steganography, and password management.",
-      "image": "https://plus.unsplash.com/premium_photo-1681487916420-8f50a06eb60e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python"
-      ],
-      "github": "https://github.com/Atharva0177/Secure-Vault-Pro",
-      "color": ""
+      "label": "Medium Articles",
+      "value": "10+",
+      "icon": "FaAward",
+      "color": "text-purple-400"
     },
     {
-      "id": 3,
-      "title": "Web AirDrop",
-      "description": "Zero-install, end-to-end browser transfers powered by WebRTC. Share files across devices with session codes or a QR — no accounts, no cloud storage.",
-      "image": "https://plus.unsplash.com/premium_photo-1684522168034-32f22b4b7eef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "github": "https://github.com/Atharva0177/Web-AirDrop",
-      "color": ""
+      "label": "M.Sc. GPA",
+      "value": "18.55/20",
+      "icon": "FaGraduationCap",
+      "color": "text-green-400"
     },
     {
-      "id": 4,
-      "title": "Hotel Booking Web Application",
-      "description": "A full-stack hotel booking web application built with Flask and SQLAlchemy.",
-      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "github": "https://github.com/Atharva0177/Hotel-Website",
-      "color": ""
-    },
-    {
-      "id": 5,
-      "title": "Real Estate Website",
-      "description": "A full-featured real estate property management platform built with Flask, featuring property listings, user authentication, booking system, file uploads, alerting, email notifications, analytics, and a comprehensive admin dashboard.",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python",
-        "Flask",
-        "SQLAlchemy"
-      ],
-      "github": "https://github.com/Atharva0177/Real-Estate-Website",
-      "color": ""
-    },
-    {
-      "id": 6,
-      "title": "Sign-to-Text Language Translator",
-      "description": "A complete end-to-end pipeline that detects hand landmarks from a webcam using MediaPipe, extracts 63 keypoint coordinates, classifies them using a trained Conv1D neural network, builds words/sentences, gives word suggestions, and converts the detected text to speech using gTTS.",
-      "image": "https://images.unsplash.com/photo-1573484092085-afd66f8cf2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Jupyter Notebook",
-        "HTML",
-        "Python"
-      ],
-      "github": "https://github.com/Atharva0177/Sign-to-Text-Language",
-      "color": ""
-    },
-    {
-      "id": 1772772724321,
-      "title": "Stock Price Prediction System",
-      "description": "A deep learning–based stock forecasting system that uses models like LSTM, TCN, and Transformers to predict stock prices from historical market data and visualize predicted vs. actual trends.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python",
-        "PyTorch",
-        "Pandas",
-        "Yahoo Finance API",
-        "Numpy"
-      ],
-      "github": "https://github.com/Atharva0177/Stock-Price-Prediction",
-      "color": ""
-    },
-    {
-      "id": 1772773127898,
-      "title": "AutoML",
-      "description": "AutoML is a machine learning project that automates the end-to-end ML pipeline, including data preprocessing, model training, and evaluation to quickly find the best-performing model.\n",
-      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "tech": [
-        "Python",
-        "Scikit-learn",
-        "Pandas",
-        "NumPy",
-        "Matplotlib / Seaborn"
-      ],
-      "github": "https://github.com/Atharva0177/AutoML",
-      "color": ""
-    },
-    {
-      "id": 1773412338668,
-      "title": "F1 Intelligence Hub",
-      "description": "F1 Intelligence Hub is an advanced, full-stack predictive and analytical platform explicitly engineered to harvest, store, and visualize official Formula 1 timing data, telemetry, and race control information. Built using FastF1, PostgreSQL, TimescaleDB, FastAPI, and Next.js 14, this platform processes high-frequency telemetry sequences into interactive, dynamic frontend visualizations.",
-      "image": "https://s3-newsifier.ams3.digitaloceanspaces.com/grandprix247.com/images/2025-11/formula-1-data.jpg",
-      "tech": [
-        "Python",
-        "FastF1 API",
-        "Next.js 14",
-        "TypeScript",
-        "TailwindCSS",
-        "Docker",
-        "PostgreSQL + TimescaleDB"
-      ],
-      "github": "https://github.com/Atharva0177/F1-IntelligenceHub",
-      "color": ""
+      "label": "B.Sc. Rank",
+      "value": "1st",
+      "icon": "FaTrophy",
+      "color": "text-yellow-400"
     }
   ],
+  "profileImage": "/nahid-profile.jpg",
+  "fullName": "Nahid Ahmadvand",
+  "title": "M.Sc. Quantum Information | Data Science & Machine Learning",
+  "availability": "Open to data science and machine learning opportunities",
+  "location": "Tehran, Iran",
+  "graduationDate": "M.Sc. completed February 2024",
+  "workStatus": "Open to Work",
+  "email": "nahidahmadvand99@gmail.com",
+  "phone": "",
+  "socialLinks": [
+    {
+      "platform": "github",
+      "url": "https://github.com/Nahid-ahmdv",
+      "label": "GitHub"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/nahid-ahmadvand-00382b365/",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:nahidahmadvand99@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "topSkills": [
+    {
+      "name": "Python",
+      "level": 85
+    },
+    {
+      "name": "Machine Learning",
+      "level": 80
+    },
+    {
+      "name": "SQL",
+      "level": 70
+    },
+    {
+      "name": "scikit-learn",
+      "level": 80
+    },
+    {
+      "name": "Model Evaluation",
+      "level": 85
+    }
+  ],
+  "languages": [
+    {
+      "name": "Persian",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Professional working proficiency"
+    }
+  ],
+  "bio": [
+    "👋 Hi! I'm <strong>Nahid Ahmadvand</strong>, focused on <strong class=\"text-green-400\">data science</strong> and <strong class=\"text-purple-400\">machine learning</strong>, with a strong academic background in physics, quantum information, and mathematical modeling.",
+    "🎓 I earned my M.Sc. in Quantum Information and Computation from Sharif University of Technology and my B.Sc. in Physics from the University of Tehran, where I graduated ranked 1st by GPA in the B.Sc. Physics program.",
+    "🤖 I build hands-on machine learning projects focused on practical data science workflows, reliable model evaluation, and clear communication, with interests in NLP, predictive modeling, and Formula 1 data analytics.",
+    "📊 My work emphasizes practical machine learning habits: leakage-aware validation, interpretable baselines, careful feature engineering, error analysis, explainability, and clear communication of results.",
+    "✍️ I write technical articles on Medium to document my projects, explain modeling decisions, and share what actually improves performance beyond simply using more complex algorithms.",
+    "🔬 Before moving toward data science, I worked in physics education and research. My master's thesis research was published in Physical Review A, and my teaching experience strengthened my ability to explain complex technical ideas clearly."
+  ],
+  "expertise": [
+    {
+      "title": "Machine Learning",
+      "description": "Building practical models for prediction, classification, clustering, and pattern discovery",
+      "icon": "🤖",
+      "skills": [
+        "Python",
+        "scikit-learn",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "title": "NLP & Text Modeling",
+      "description": "Working with text data using classical NLP methods and sparse feature representations",
+      "icon": "💬",
+      "skills": [
+        "NLP",
+        "TF-IDF",
+        "Text Classification",
+        "Sparse Features",
+        "n-grams"
+      ]
+    },
+    {
+      "title": "Model Evaluation",
+      "description": "Designing careful validation workflows and interpreting model behavior beyond headline metrics",
+      "icon": "📊",
+      "skills": [
+        "Cross-validation",
+        "Time-aware Validation",
+        "Leakage-aware Evaluation",
+        "Error Analysis",
+        "Explainability"
+      ]
+    },
+    {
+      "title": "Scientific Background",
+      "description": "Applying mathematical reasoning, research discipline, and clear technical communication",
+      "icon": "🔬",
+      "skills": [
+        "Physics",
+        "Quantum Information",
+        "Mathematical Modeling",
+        "Research",
+        "Technical Writing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Quantum Information and Computation",
+      "institution": "Sharif University of Technology",
+      "period": "September 2021 - February 2024",
+      "grade": "GPA: 18.55/20",
+      "color": "from-blue-500 to-cyan-500"
+    },
+    {
+      "degree": "B.Sc. in Physics",
+      "institution": "University of Tehran",
+      "period": "September 2017 - July 2021",
+      "grade": "GPA: 18.15/20 | Ranked 1st by GPA",
+      "color": "from-purple-500 to-pink-500"
+    }
+  ],
+"highlights": [
+  {
+    "emoji": "🤖",
+    "title": "Applied ML Projects",
+    "description": "End-to-end projects focused on practical modeling, data workflows, and reliable evaluation",
+    "bgColor": "bg-blue-500/10",
+    "borderColor": "border-blue-500/20",
+    "hoverColor": "hover:bg-blue-500/20"
+  },
+  {
+    "emoji": "📊",
+    "title": "Practical Data Science",
+    "description": "Projects shaped around careful preprocessing, meaningful metrics, interpretable results, and clear communication",
+    "bgColor": "bg-green-500/10",
+    "borderColor": "border-green-500/20",
+    "hoverColor": "hover:bg-green-500/20"
+  },
+  {
+    "emoji": "📄",
+    "title": "Research Publication",
+    "description": "Master's thesis research published in Physical Review A",
+    "bgColor": "bg-purple-500/10",
+    "borderColor": "border-purple-500/20",
+    "hoverColor": "hover:bg-purple-500/20"
+  },
+  {
+    "emoji": "🎓",
+    "title": "Academic Foundation",
+    "description": "Graduate training in quantum information and ranked 1st by GPA in B.Sc. Physics",
+    "bgColor": "bg-yellow-500/10",
+    "borderColor": "border-yellow-500/20",
+    "hoverColor": "hover:bg-yellow-500/20"
+  }
+]
+},
+"projects": [
+  {
+    "id": 1,
+    "title": "Sarcasm Detection",
+    "description": "Built a leakage-aware classical NLP pipeline for sarcasm detection using Reddit comments, TF-IDF features, Logistic Regression, coefficient analysis, and error analysis.",
+    "image": "/project-images/sarcasm-detection.jpg",
+    "tech": [
+      "Python",
+      "NLP",
+      "TF-IDF",
+      "Logistic Regression",
+      "scikit-learn"
+    ],
+    "medium": "https://medium.com/@nahid.nm57/sarcasm-detection-without-deep-learning-083e17b21cf4",
+    "github": "https://github.com/Nahid-ahmdv/Sarcasm_Detection",
+    "color": ""
+  },
+  {
+    "id": 2,
+    "title": "Customer Churn Prediction",
+    "description": "Built a retention-focused churn prediction workflow with leakage-safe preprocessing, model benchmarking, top-k evaluation, threshold tuning, and model explainability.",
+    "image": "/project-images/customer-churn-prediction.jpg",
+    "tech": [
+      "Python",
+      "scikit-learn",
+      "Random Forest",
+      "SHAP",
+      "Model Evaluation"
+    ],
+    "medium": "https://medium.com/data-and-beyond/predicting-customer-churn-that-a-retention-team-can-actually-use-94f362ab9a0f",
+    "github": "https://github.com/Nahid-ahmdv/Customer_Churn_Prediction",
+    "color": ""
+  },
+  {
+    "id": 3,
+    "title": "Intruder Detection through Webpage Session Tracking",
+    "description": "Built a sparse machine learning pipeline for web-session intrusion detection using site-sequence features, temporal feature engineering, Logistic Regression, and time-aware validation.",
+    "image": "/project-images/intruder-detection.jpg",
+    "tech": [
+      "Python",
+      "Sparse Features",
+      "TF-IDF",
+      "Logistic Regression",
+      "TimeSeriesSplit"
+    ],
+    "medium": "https://medium.com/data-and-beyond/intruder-detection-through-webpage-session-tracking-e52a2017b8d5",
+    "github": "https://github.com/Nahid-ahmdv/Intruder_Detection_through_Webpage_Session_Tracking",
+    "color": ""
+  },
+  {
+    "id": 4,
+    "title": "Ferrari 2025 Expected vs Actual Points",
+    "description": "Built a Formula 1 expected-points audit using leakage-safe pre-session features, time-aware validation, conformal intervals, and performance-gap attribution.",
+    "image": "/project-images/ferrari-expected-points.jpg",
+    "tech": [
+      "Python",
+      "Pandas",
+      "scikit-learn",
+      "ElasticNet",
+      "Formula 1 Analytics"
+    ],
+    "medium": "https://medium.com/formula-one-forever/ferrari-2025-expected-vs-actual-points-part-1-c04e32c8ea81",
+    "github": "https://github.com/Nahid-ahmdv/Ferrari_2025_Expected_vs_Actual_Points",
+    "color": ""
+  },
+  {
+    "id": 5,
+    "title": "Medium Claps Prediction",
+    "description": "Built a leakage-aware engagement prediction pipeline using chronological validation, sparse text features, target encoding, Ridge regression, LightGBM, and model blending.",
+    "image": "/project-images/medium-claps-prediction.jpg",
+    "tech": [
+      "Python",
+      "NLP",
+      "Ridge Regression",
+      "LightGBM",
+      "Feature Engineering"
+    ],
+    "medium": "https://medium.com/data-science-collective/predicting-medium-article-engagement-using-leakage-aware-nlp-and-gradient-boosting-5596c685ff4d",
+    "github": "https://github.com/Nahid-ahmdv/Medium_Claps_Prediction",
+    "color": ""
+  },
+  {
+    "id": 6,
+    "title": "Human Activity Recognition",
+    "description": "Compared unsupervised clustering and supervised classification on smartphone sensor data using PCA, K-Means, Ward clustering, LinearSVC, and diagnostic evaluation.",
+    "image": "/project-images/human-activity-recognition.jpg",
+    "tech": [
+      "Python",
+      "PCA",
+      "Clustering",
+      "LinearSVC",
+      "scikit-learn"
+    ],
+    "medium": "https://medium.com/data-science-collective/when-your-clustering-sees-two-groups-and-you-know-there-are-six-cf9da2420601",
+    "github": "https://github.com/Nahid-ahmdv/Human_Activity_Recognition",
+    "color": ""
+  },
+  {
+    "id": 7,
+    "title": "Spooky Author Identification",
+    "description": "Built a classical NLP authorship-attribution pipeline using word and character n-grams, punctuation features, TF-IDF, NB-SVM-style models, and stacking.",
+    "image": "/project-images/spooky-author-identification.jpg",
+    "tech": [
+      "Python",
+      "NLP",
+      "TF-IDF",
+      "NB-SVM",
+      "Stacking"
+    ],
+    "medium": "https://medium.com/@nahid.nm57/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification-a353564427dd",
+    "github": "https://github.com/Nahid-ahmdv/Spooky_Author_Identification",
+    "color": ""
+  },
+  {
+    "id": 8,
+    "title": "Olivetti Faces: Clustering and Anomaly Detection",
+    "description": "Built an unsupervised learning and anomaly detection workflow using PCA/eigenfaces, K-Means, Gaussian Mixture Models, and reconstruction-error scoring.",
+    "image": "/project-images/olivetti-faces.jpg",
+    "tech": [
+      "Python",
+      "PCA",
+      "K-Means",
+      "GMM",
+      "Anomaly Detection"
+    ],
+    "medium": "https://medium.com/data-and-beyond/from-clustering-to-anomaly-detection-on-olivetti-faces-984df43f37ef",
+    "github": "https://github.com/Nahid-ahmdv/Olivetti_Faces",
+    "color": ""
+  },
+{
+  "id": 9,
+  "title": "Wine Quality Prediction",
+  "description": "Built a leakage-aware regression workflow comparing linear models and Random Forests, with cross-validation, hyperparameter tuning, and model explainability.",
+  "image": "/project-images/wine-quality-prediction.jpg",
+  "tech": [
+    "Python",
+    "Regression",
+    "Random Forest",
+    "SHAP",
+    "scikit-learn"
+  ],
+  "medium": "https://python.plainenglish.io/wine-quality-prediction-3d1c6f3b961a?gi=8e7a47a89d18",
+  "github": "https://github.com/Nahid-ahmdv/Wine_Quality_Prediction",
+  "color": ""
+}
+],
   "skills": {
     "categories": [
       {
-        "category": "Programming Languages",
+        "category": "Programming & Data",
         "color": "from-blue-500 to-cyan-500",
         "skills": [
           {
@@ -383,86 +395,19 @@
             "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png"
           },
           {
-            "name": "C",
-            "color": "#A8B9CC",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1280px-C_Programming_Language.svg.png"
+            "name": "pandas",
+            "color": "#150458",
+            "iconUrl": ""
           },
           {
-            "name": "C++",
-            "color": "#00599C",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png"
+            "name": "NumPy",
+            "color": "#013243",
+            "iconUrl": ""
           },
-          {
-            "name": "MATLAB",
-            "color": "#0076A8",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-          },
-          {
-            "name": "R",
-            "color": "#276DC3",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/3840px-R_logo.svg.png"
-          },
-          {
-            "name": "HTML",
-            "color": "#E34F26",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/3840px-HTML5_Badge.svg.png"
-          },
-          {
-            "name": "CSS",
-            "color": "#1572B6",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1280px-CSS3_logo.svg.png"
-          }
-        ]
-      },
-      {
-        "category": "AI/ML Frameworks",
-        "color": "from-purple-500 to-pink-500",
-        "skills": [
-          {
-            "name": "PyTorch",
-            "color": "#EE4C2C",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1280px-PyTorch_logo_icon.svg.png"
-          },
-          {
-            "name": "TensorFlow",
-            "color": "#FF6F00",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/960px-Tensorflow_logo.svg.png"
-          },
-          {
-            "name": "OpenCV",
-            "color": "#5C3EE8",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"
-          },
-          {
-            "name": "YOLOv8",
-            "color": "#00FFFF",
-            "iconUrl": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png"
-          },
-          {
-            "name": "HuggingFace",
-            "color": "#FFD21E",
-            "iconUrl": "https://apipie.ai/docs/img/Integrations/Huggingface/hf-logo.svg"
-          },
-          {
-            "name": "ViViT",
-            "color": "#9D4EDD",
-            "iconUrl": "https://sjinnovation.com/sites/default/files/inline-images/Conclusion%20%283%29.png"
-          }
-        ]
-      },
-      {
-        "category": "Developer Tools",
-        "color": "from-orange-500 to-red-500",
-        "skills": [
           {
             "name": "Jupyter",
             "color": "#F37626",
             "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1920px-Jupyter_logo.svg.png"
-          },
-          {
-            "name": "VS Code",
-            "color": "#007ACC",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png"
           },
           {
             "name": "Git",
@@ -473,404 +418,392 @@
             "name": "GitHub",
             "color": "#ffffff",
             "iconUrl": ""
-          },
-          {
-            "name": "Docker",
-            "color": "#2496ED",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/3840px-Docker-svgrepo-com.svg.png"
-          },
-          {
-            "name": "Tableau",
-            "color": "#E97627",
-            "iconUrl": "https://icon2.cleanpng.com/20181112/xuy/kisspng-tableau-software-computer-software-business-intell-best-tableau-courses-tutorials-amp-books-2-18-5be9d6e387ca79.8936234515420515555562.jpg"
-          },
-          {
-            "name": "Postman",
-            "color": "#FF6C37",
-            "iconUrl": "https://www.svgrepo.com/show/354202/postman-icon.svg"
           }
         ]
       },
       {
-        "category": "Cloud & Databases",
+        "category": "Machine Learning",
+        "color": "from-purple-500 to-pink-500",
+        "skills": [
+          {
+            "name": "scikit-learn",
+            "color": "#F7931E",
+            "iconUrl": ""
+          },
+          {
+            "name": "Classification",
+            "color": "#60A5FA",
+            "iconUrl": ""
+          },
+          {
+            "name": "Regression",
+            "color": "#34D399",
+            "iconUrl": ""
+          },
+          {
+            "name": "Clustering",
+            "color": "#A78BFA",
+            "iconUrl": ""
+          },
+          {
+            "name": "Anomaly Detection",
+            "color": "#F87171",
+            "iconUrl": ""
+          },
+          {
+            "name": "Feature Engineering",
+            "color": "#FBBF24",
+            "iconUrl": ""
+          }
+        ]
+      },
+      {
+        "category": "NLP & Text Modeling",
         "color": "from-green-500 to-teal-500",
         "skills": [
           {
-            "name": "MySQL",
-            "color": "#4479A1",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLIsoAHea-BOhRzeFAqp8P9OChYR2Fch6mQ&s"
+            "name": "NLP",
+            "color": "#10B981",
+            "iconUrl": ""
           },
           {
-            "name": "MongoDB",
-            "color": "#47A248",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg"
+            "name": "TF-IDF",
+            "color": "#38BDF8",
+            "iconUrl": ""
           },
           {
-            "name": "AWS DynamoDB",
-            "color": "#0091ff",
-            "iconUrl": "https://iconlogovector.com/uploads/images/2024/09/lg-66d46715eaff2-AWS-DynamoDB.webp"
+            "name": "Sparse Features",
+            "color": "#818CF8",
+            "iconUrl": ""
           },
           {
-            "name": "PythonAnywhere",
-            "color": "#1D9FD7",
-            "iconUrl": "https://w7.pngwing.com/pngs/262/434/png-transparent-pythonanywhere-django-web-hosting-service-github-github-angle-white-text-thumbnail.png"
+            "name": "Text Classification",
+            "color": "#FBBF24",
+            "iconUrl": ""
           },
           {
-            "name": "Excel",
-            "color": "#217346",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/1280px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png"
+            "name": "n-grams",
+            "color": "#F472B6",
+            "iconUrl": ""
           },
           {
-            "name": "Google Cloud",
-            "color": "#3776AB",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT514Y3jJmm0cWYmVEKm9orsGYP_Y9wG3skxA&s"
-          },
-          {
-            "name": "AWS",
-            "color": "#e5c52a",
-            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"
+            "name": "NB-SVM",
+            "color": "#C084FC",
+            "iconUrl": ""
           }
         ]
       },
       {
-        "category": "Embedded Systems & IoT",
+        "category": "Evaluation & Explainability",
+        "color": "from-orange-500 to-red-500",
+        "skills": [
+          {
+            "name": "Cross-validation",
+            "color": "#FB923C",
+            "iconUrl": ""
+          },
+          {
+            "name": "Time-aware Validation",
+            "color": "#F97316",
+            "iconUrl": ""
+          },
+          {
+            "name": "Leakage-aware Evaluation",
+            "color": "#EF4444",
+            "iconUrl": ""
+          },
+          {
+            "name": "SHAP",
+            "color": "#8B5CF6",
+            "iconUrl": ""
+          },
+          {
+            "name": "Permutation Importance",
+            "color": "#06B6D4",
+            "iconUrl": ""
+          },
+          {
+            "name": "Error Analysis",
+            "color": "#F43F5E",
+            "iconUrl": ""
+          }
+        ]
+      },
+      {
+        "category": "Visualization & Tools",
         "color": "from-yellow-500 to-orange-500",
         "skills": [
           {
-            "name": "Raspberry Pi",
-            "color": "#fdfcfc",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1D0ixZZKfjrOE4oy2sQokOYgsT39p7T_zg&s"
+            "name": "Matplotlib",
+            "color": "#11557C",
+            "iconUrl": ""
           },
           {
-            "name": "STM32",
-            "color": "#03234B",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomFxeVkZx6xpbNsIE-0O91gBQIwGaDzW9_w&s"
+            "name": "Seaborn",
+            "color": "#4C72B0",
+            "iconUrl": ""
           },
           {
-            "name": "Arduino",
-            "color": "#00979D",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xf6Sf-cZmndWMe1O-sWcZyUoqOZqBe1m-Q&s"
+            "name": "VS Code",
+            "color": "#007ACC",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png"
           },
           {
-            "name": "Modbus",
-            "color": "#0066CC",
-            "iconUrl": "https://seekvectorlogo.com/wp-content/uploads/2019/04/modbus-organization-inc-vector-logo-small.png"
-          },
-          {
-            "name": "MQTT",
-            "color": "#660066",
-            "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_tZ-oi-FLgJIpItud60-Q5CFlDpqMp8zxA&s"
-          },
-          {
-            "name": "PLC",
-            "color": "#FF6B35"
+            "name": "Medium",
+            "color": "#ffffff",
+            "iconUrl": ""
           }
         ]
       },
       {
-        "category": "Soft Skills",
+        "category": "Scientific & Communication Skills",
         "color": "from-pink-500 to-rose-500",
         "skills": [
           {
-            "name": "Problem Solving",
+            "name": "Mathematical Modeling",
             "color": "#8ce2ee",
             "iconUrl": ""
           },
           {
-            "name": "Communication",
-            "color": "#9beda5"
+            "name": "Physics",
+            "color": "#9beda5",
+            "iconUrl": ""
           },
           {
-            "name": "Teamwork",
-            "color": "#f4e07b"
+            "name": "Quantum Information",
+            "color": "#f4e07b",
+            "iconUrl": ""
           },
           {
-            "name": "Critical Thinking",
-            "color": "#eea5fd"
+            "name": "Research",
+            "color": "#eea5fd",
+            "iconUrl": ""
           },
           {
-            "name": "Leadership",
-            "color": "#f02442"
+            "name": "Technical Writing",
+            "color": "#f02442",
+            "iconUrl": ""
+          },
+          {
+            "name": "Teaching",
+            "color": "#60A5FA",
+            "iconUrl": ""
           }
         ]
       }
     ],
     "areasOfInterest": [
       {
-        "name": "Machine Learning",
+        "name": "Applied Machine Learning",
         "emoji": "🤖"
       },
       {
-        "name": "Computer Vision",
-        "emoji": "👁️"
-      },
-      {
-        "name": "Natural Language Processing",
+        "name": "NLP & Text Modeling",
         "emoji": "💬"
       },
       {
-        "name": "IoT Systems",
-        "emoji": "🔧"
+        "name": "Model Evaluation",
+        "emoji": "📊"
       },
       {
-        "name": "FullStack Devlopment",
-        "emoji": "🌐"
+        "name": "Feature Engineering",
+        "emoji": "🧩"
       },
       {
-        "name": "Deep Learning",
-        "emoji": "🧠"
+        "name": "F1 Data Analytics",
+        "emoji": "🏎️"
+      },
+      {
+        "name": "Scientific Data Science",
+        "emoji": "🔬"
       }
     ],
     "summary": {
-      "title": "Continuous Learner",
-      "description": "I'm constantly expanding my skill set and staying up-to-date with the latest technologies in AI/ML, Computer Vision, and IoT. From training deep learning models to deploying them on edge devices, I enjoy working across the full stack of modern technology.",
+      "title": "Applied Data Science, in Practice",
+      "description": "I am developing these skills through hands-on machine learning projects, working with real datasets while building stronger habits in reproducible workflows, careful evaluation, and clear technical communication.",
       "badges": [
-        "6+ Certifications",
-        "10+ Projects",
-        "Multiple Workshops",
-        "Hackathon Winner"
+        "Applied ML Projects",
+        "NLP & Text Modeling",
+        "F1 Data Analytics",
+        "Physics & Research Background"
       ]
     }
   },
   "resume": {
-    "email": "mandavkaratharva@gmail.com",
-    "phone": "+91 7972326112",
-    "rollNo": "1032211830",
-    "resumeFileName": "Atharva_Mandavkar_Resume.pdf",
-    "githubProfileUrl": "https://github.com/Atharva0177",
+    "email": "nahidahmadvand99@gmail.com",
+    "phone": "",
+    "rollNo": "",
+    "resumeFileName": "Nahid_Ahmadvand_Data_Science_ML_Resume.pdf",
+    "githubProfileUrl": "https://github.com/Nahid-ahmdv",
     "education": [
       {
-        "degree": "Bachelor of Technology",
-        "field": "Electronics and Communication Engineering",
-        "institution": "Dr Vishwanath Karad MIT World Peace University, Pune",
-        "period": "June 2021 - March 2025",
-        "grade": "CGPA: 8.85/10",
-        "rollNo": "1032211830"
+        "degree": "Master of Science",
+        "field": "Quantum Information and Computation",
+        "institution": "Sharif University of Technology",
+        "period": "September 2021 - February 2024",
+        "grade": "GPA: 18.55/20",
+        "rollNo": ""
       },
       {
-        "degree": "Higher Secondary Education (12th)",
-        "field": "Science Stream",
-        "institution": "Namo Rims Jr. College, Pune",
-        "period": "August 2019 - July 2021",
-        "grade": "91.50%"
-      },
-      {
-        "degree": "Secondary Education (10th)",
-        "field": "General Education",
-        "institution": "Sacred Heart Convent High School, Ratnagiri",
-        "period": "Completed 2019",
-        "grade": "93.20%"
+        "degree": "Bachelor of Science",
+        "field": "Physics",
+        "institution": "University of Tehran",
+        "period": "September 2017 - July 2021",
+        "grade": "GPA: 18.15/20 | Ranked 1st by GPA"
       }
     ],
     "certifications": [
       {
-        "name": "Fundamentals of Deep Learning",
-        "issuer": "Nvidia",
-        "date": "November 2023",
+        "name": "Machine Learning Specialization",
+        "issuer": "DeepLearning.AI / Stanford Online via Coursera",
+        "date": "August 2025",
+        "credentialUrl": "https://coursera.org/verify/specialization/NAECN860PYPY",
         "skills": [
-          "Deep Learning",
-          "DLI"
-        ]
-      },
-      {
-        "name": "AWS Academy Cloud Foundations",
-        "issuer": "AWS Academy",
-        "date": "February 2024",
-        "skills": [
-          "Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "name": "National Academic Immersion Program in Robotics & IoT",
-        "issuer": "NITTTR, Bhopal",
-        "date": "July 2023",
-        "skills": [
-          "PLC",
-          "Mindsphere (IoT)",
-          "Robot Studio",
-          "Electric Drives"
-        ]
-      },
-      {
-        "name": "Scientific Use of Machine Learning on Low Power Devices",
-        "issuer": "ICTP",
-        "date": "April 2023",
-        "skills": [
-          "TinyML",
-          "Edge AI"
-        ]
-      },
-      {
-        "name": "Masterclass on API Development using Node.js",
-        "issuer": "Workshop",
-        "date": "January 2024",
-        "skills": [
-          "API Development",
-          "Node.js"
-        ]
-      },
-      {
-        "name": "Brainy Pi Workshop",
-        "issuer": "IoTIoT.in",
-        "date": "November 2023",
-        "skills": [
-          "BrainyPi",
-          "IoT Interfaces"
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Neural Networks",
+          "Decision Trees",
+          "Recommender Systems",
+          "Reinforcement Learning"
         ]
       }
     ],
-    "experience": [
-      {
-        "title": "DataLogger using Embedded Devices and Modbus",
-        "company": "Atlas Copco Project",
-        "period": "February 2024 - June 2024",
-        "description": "Developed a Datalogger system for mining trucks to obtain and visualize relevant data from connected sensors using Modbus TCP/IP and MQTT protocols.",
-        "skills": [
-          "Python",
-          "MySQL",
-          "PythonAnywhere",
-          "Postman",
-          "MQTT",
-          "Raspberry Pi",
-          "STM32"
-        ],
-        "type": "Project"
-      },
-      {
-        "title": "Smart Crime Detection using Existing CCTV Infrastructure",
-        "company": "eYantra Innovation Challenge 2023-24 - Team EnvisionAI",
-        "period": "September 2023 - March 2024",
-        "description": "Built a centralized database for authorities with alert systems, web app, and Android app for crime prevention using Vision Transformers.",
-        "skills": [
-          "Python",
-          "ViViT",
-          "PyTorch",
-          "Twilio",
-          "DynamoDB",
-          "MongoDB",
-          "Android Studio"
-        ],
-        "type": "Hackathon"
-      },
-      {
-        "title": "Stock Price Prediction System",
-        "company": "Independent Project",
-        "period": "December 2025 - February 2026",
-        "description": "A deep learning–based stock forecasting system that uses models like LSTM, TCN, and Transformers to predict stock prices from historical market data and visualize predicted v/s actual trends.",
-        "skills": [
-          "Python",
-          "PyTorch ",
-          "Yahoo Finance API",
-          "Pandas",
-          "Numpy"
-        ],
-        "type": "Project"
-      },
-      {
-        "title": "AutoML",
-        "company": "Independent Project",
-        "period": "February 2026- March 2026",
-        "description": "AutoML is a machine learning project that automates the end-to-end ML pipeline, including data preprocessing, model training, and evaluation to quickly find the best-performing model.",
-        "skills": [
-          "Python",
-          "Pandas",
-          "Numpy",
-          "Scitkit-learn",
-          "Matplotlib/Seaborn"
-        ],
-        "type": "Project"
-      }
+"experience": [
+  {
+    "title": "Independent Data Science & Machine Learning Projects",
+    "company": "Personal portfolio, GitHub, and Medium",
+    "period": "December 2025 - Present",
+    "description": "Built and documented end-to-end machine learning projects using public datasets, with a focus on practical modeling workflows, leakage-aware evaluation, interpretable baselines, feature engineering, and clear technical communication.",
+    "skills": [
+      "Python",
+      "pandas",
+      "NumPy",
+      "scikit-learn",
+      "NLP",
+      "Feature Engineering",
+      "Model Evaluation",
+      "Technical Writing"
     ],
+    "type": "Independent Projects"
+  },
+  {
+    "title": "Physics and Mathematics Instructor",
+    "company": "Farzanegan 5 High School",
+    "period": "October 2023 - May 2024",
+    "description": "Taught physics and mathematics to high school students at a selective NODET/SAMPAD school in Tehran. Designed lessons, explained problem-solving strategies, and helped students strengthen their foundations in mathematical reasoning and physics concepts.",
+    "skills": [
+      "Physics",
+      "Mathematics",
+      "Teaching",
+      "Problem Solving",
+      "Communication"
+    ],
+    "type": "Teaching"
+  },
+  {
+    "title": "Teaching Assistant, Analytical Mechanics I & II",
+    "company": "University of Tehran",
+    "period": "September 2019 - September 2020",
+    "description": "Supported undergraduate physics students in Analytical Mechanics I & II through problem-solving sessions, assignment review, and explanations of core mechanics concepts.",
+    "skills": [
+      "Physics",
+      "Classical Mechanics",
+      "Teaching",
+      "Problem Solving",
+      "Mathematical Modeling"
+    ],
+    "type": "Teaching"
+  }
+],
     "achievements": [
       {
-        "title": "Patent Published: AI-Driven Crime Detection",
-        "description": "Published Indian Patent (Publication No: 03/2026) for AI-driven surveillance system using existing CCTV networks with ML & video transformers",
-        "date": "January 2026",
-        "icon": "📜",
+        "title": "Publication in Physical Review A",
+        "description": "Master's thesis research published as 'Exact quantum noise deconvolution with partial knowledge of noise'.",
+        "date": "May 2026",
+        "icon": "📄",
         "color": "from-purple-500 to-pink-500"
       },
       {
-        "title": "eYantra Innovation Challenge 2023-24",
-        "description": "Best Implementation Award at National Finals",
-        "date": "April 2024",
-        "icon": "🥇",
+        "title": "Ranked 1st by GPA in B.Sc. Physics",
+        "description": "Graduated ranked 1st by GPA in the B.Sc. Physics program at the University of Tehran.",
+        "date": "July 2021",
+        "icon": "🎓",
         "color": "from-yellow-500 to-orange-500"
       },
       {
-        "title": "Smart India Hackathon 2023",
-        "description": "Selected for National Level Competition",
-        "date": "October 2023",
+        "title": "Honorary Direct Admission to M.Sc. Program",
+        "description": "Admitted directly to Sharif University's M.Sc. program without the nationwide graduate entrance exam based on distinguished academic performance.",
+        "date": "September 2021",
         "icon": "🏆",
         "color": "from-blue-500 to-purple-500"
       },
       {
-        "title": "MIT World Peace University HackMITWPU Workathon",
-        "description": "Won Finals in Workathon Competition",
-        "date": "March 2024",
-        "icon": "🎯",
+        "title": "Machine Learning Specialization",
+        "description": "Completed the Machine Learning Specialization by DeepLearning.AI / Stanford Online via Coursera.",
+        "date": "August 2025",
+        "icon": "🤖",
         "color": "from-green-500 to-teal-500"
       }
     ],
     "quickStats": [
       {
-        "label": "Academic CGPA",
-        "value": "8.85/10"
+        "label": "M.Sc. GPA",
+        "value": "18.55/20"
       },
       {
-        "label": "Major Projects",
-        "value": "4+"
+        "label": "ML Projects",
+        "value": "10+"
       },
       {
-        "label": "Certifications",
-        "value": "6+"
+        "label": "Medium Articles",
+        "value": "10+"
       },
       {
-        "label": "Hackathons Won",
-        "value": "3"
+        "label": "B.Sc. Rank",
+        "value": "1st"
       },
       {
-        "label": "Technologies",
-        "value": "20+"
+        "label": "Publication",
+        "value": "PRA"
       }
     ]
   },
   "contact": {
-    "subtitle": "Let's work together on your next project",
-    "heading": "Let's Talk",
-    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!",
+    "subtitle": "Open to data science and machine learning opportunities",
+    "heading": "Get in Touch",
+    "description": "I am open to data science and machine learning opportunities, especially in roles involving NLP, predictive modeling, model evaluation, or technical data analysis.",
     "contactInfo": [
       {
         "label": "Email",
-        "value": "mandavkaratharva@gmail.com",
-        "link": "mailto:mandavkaratharva@gmail.com",
+        "value": "nahidahmadvand99@gmail.com",
+        "link": "mailto:nahidahmadvand99@gmail.com",
         "icon": "FaEnvelope"
       },
       {
         "label": "Location",
-        "value": "Pune, India",
+        "value": "Tehran, Iran",
         "link": null,
         "icon": "FaMapMarkerAlt"
       },
       {
         "label": "GitHub",
-        "value": "@Atharva0177",
-        "link": "https://github.com/Atharva0177",
+        "value": "github.com/Nahid-ahmdv",
+        "link": "https://github.com/Nahid-ahmdv",
         "icon": "FaGithub"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/nahid-ahmadvand-00382b365",
+        "link": "https://www.linkedin.com/in/nahid-ahmadvand-00382b365/",
+        "icon": "FaLinkedin"
+      },
+      {
+        "label": "Medium",
+        "value": "medium.com/@nahid.nm57",
+        "link": "https://medium.com/@nahid.nm57",
+        "icon": "FaMedium"
       }
     ],
-    "socialLinks": [
-      {
-        "platform": "github",
-        "url": "https://github.com/Atharva0177"
-      },
-      {
-        "platform": "linkedin",
-        "url": "https://www.linkedin.com/in/atharva-mandavkar-b66b94179/"
-      },
-      {
-        "platform": "instagram",
-        "url": "https://www.instagram.com/atharva__177/"
-      }
-    ]
+    "socialLinks": []
   }
 }

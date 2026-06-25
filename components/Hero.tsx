@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { TypeAnimation } from 'react-type-animation'
-import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
+import { FaGithub, FaLinkedin, FaMedium } from 'react-icons/fa'
 import ParticleBackground from './ParticleBackground'
 
 interface HeroContent {
@@ -17,7 +17,7 @@ interface HeroContent {
 const SOCIAL_ICONS: Record<string, any> = {
   github: FaGithub,
   linkedin: FaLinkedin,
-  instagram: FaInstagram,
+  medium: FaMedium,
 }
 
 const SOCIAL_COLORS: Record<string, string> = {

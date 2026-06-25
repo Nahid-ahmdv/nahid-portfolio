@@ -303,7 +303,7 @@ const About = ({ content }: { content: any }) => {
           transition={{ duration: 0.6, delay: 0.5 }}
           className="mb-10"
         >
-          <h3 className="text-2xl font-bold mb-8 text-center gradient-text">Areas of Expertise</h3>
+          <h3 className="text-2xl font-bold mb-8 text-center gradient-text">Focus Areas</h3>
           <div className="grid md:grid-cols-2 gap-6">
             {expertise.map((area: any, index: number) => (
               <motion.div

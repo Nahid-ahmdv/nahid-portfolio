@@ -3,16 +3,25 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import { FaGithub, FaLinkedin, FaEnvelope, FaMapMarkerAlt, FaPaperPlane, FaInstagram } from 'react-icons/fa'
+import {
+  FaEnvelope,
+  FaMapMarkerAlt,
+  FaGithub,
+  FaLinkedin,
+  FaMedium
+} from 'react-icons/fa'
 
 const ICON_MAP: Record<string, any> = {
-  FaGithub, FaLinkedin, FaEnvelope, FaMapMarkerAlt, FaInstagram
+  FaGithub,
+  FaLinkedin,
+  FaEnvelope,
+  FaMapMarkerAlt,
+  FaMedium
 }
 
 const SOCIAL_ICONS: Record<string, any> = {
   github: FaGithub,
   linkedin: FaLinkedin,
-  instagram: FaInstagram,
 }
 
 const SOCIAL_COLORS: Record<string, string> = {
@@ -83,7 +92,7 @@ const Contact = ({ content }: { content: any }) => {
     icon: ICON_MAP[info.icon] || FaEnvelope
   }))
 
-  const socialLinks = content.socialLinks.map((social: any) => ({
+  const socialLinks = (content.socialLinks || []).map((social: any) => ({
     ...social,
     icon: SOCIAL_ICONS[social.platform] || FaGithub,
     color: SOCIAL_COLORS[social.platform] || 'hover:text-gray-400'
@@ -153,24 +162,26 @@ const Contact = ({ content }: { content: any }) => {
               })}
             </div>
 
-            <div className="flex gap-4">
-              {socialLinks.map((social: any, index: number) => {
-                const Icon = social.icon
-                return (
-                  <motion.a
-                    key={index}
-                    href={social.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    whileHover={{ scale: 1.2, rotate: 5 }}
-                    whileTap={{ scale: 0.9 }}
-                    className={`p-4 glass rounded-full text-white transition-colors ${social.color}`}
-                  >
-                    <Icon size={24} />
-                  </motion.a>
-                )
-              })}
-            </div>
+            {socialLinks.length > 0 && (
+              <div className="flex gap-4">
+                {socialLinks.map((social: any, index: number) => {
+                  const Icon = social.icon
+                  return (
+                    <motion.a
+                      key={index}
+                      href={social.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      whileHover={{ scale: 1.2, rotate: 5 }}
+                      whileTap={{ scale: 0.9 }}
+                      className={`p-4 glass rounded-full text-white transition-colors ${social.color}`}
+                    >
+                      <Icon size={24} />
+                    </motion.a>
+                  )
+                })}
+              </div>
+            )}
           </motion.div>
 
           {/* Contact Form */}
@@ -185,8 +196,10 @@ const Contact = ({ content }: { content: any }) => {
               <input
                 type="hidden"
                 name="access_key"
-                value={process.env.NEXT_PUBLIC_WEB3FORMS_KEY || ''}
+                value={process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || ''}
               />
+              <input type="hidden" name="from_name" value="Nahid Portfolio Contact Form" />
+              <input type="hidden" name="subject" value="New message from Nahid's portfolio" />
 
               <div>
                 <label className="block text-sm font-medium mb-2">Name</label>
@@ -293,7 +306,7 @@ const Contact = ({ content }: { content: any }) => {
           className="mt-20 pt-8 border-t border-white/10 text-center text-gray-400"
         >
           <p>© 2025 Atharva. Built with Next.js, TypeScript & Tailwind CSS</p>
-          <p className="mt-2">Made with ❤️ in Pune, India</p>
+          <p className="mt-2">Made with ❤️ </p>
         </motion.div> */}
       </div>
     </section>

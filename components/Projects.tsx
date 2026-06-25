@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
+import { FaGithub, FaExternalLinkAlt, FaMedium } from 'react-icons/fa'
 
 interface Project {
   id: number
@@ -10,6 +10,7 @@ interface Project {
   description: string
   image: string
   tech: string[]
+  medium?: string
   github: string
   color: string
 }
@@ -32,7 +33,9 @@ const Projects = ({ content, githubUrl = '#' }: { content: Project[]; githubUrl?
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Featured <span className="gradient-text">Projects</span>
           </h2>
-          <p className="text-gray-400 text-lg">Check out my latest work</p>
+          <p className="text-gray-400 text-lg">
+            Selected data science and machine learning projects
+          </p>
         </motion.div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -46,7 +49,12 @@ const Projects = ({ content, githubUrl = '#' }: { content: Project[]; githubUrl?
               className="glass rounded-xl overflow-hidden group"
             >
               <div className="relative h-48 overflow-hidden">
-                <div className={`absolute inset-0 bg-gradient-to-br ${project.color} opacity-80`}></div>
+                {project.color && (
+                  <div
+                    className={`absolute inset-0 bg-gradient-to-br ${project.color} opacity-80`}
+                  />
+                )}
+
                 <img
                   src={project.image}
                   alt={project.title}
@@ -58,7 +66,10 @@ const Projects = ({ content, githubUrl = '#' }: { content: Project[]; githubUrl?
                 <h3 className="text-2xl font-bold mb-3 group-hover:gradient-text transition-all">
                   {project.title}
                 </h3>
-                <p className="text-gray-400 mb-4 line-clamp-3">{project.description}</p>
+
+                <p className="text-gray-400 mb-4 line-clamp-3">
+                  {project.description}
+                </p>
 
                 <div className="flex flex-wrap gap-2 mb-4">
                   {project.tech.map((tech, i) => (
@@ -71,7 +82,20 @@ const Projects = ({ content, githubUrl = '#' }: { content: Project[]; githubUrl?
                   ))}
                 </div>
 
-                <div className="flex gap-4">
+                <div className="flex flex-wrap gap-4">
+                  {project.medium && (
+                    <motion.a
+                      href={project.medium}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      whileHover={{ scale: 1.1 }}
+                      whileTap={{ scale: 0.9 }}
+                      className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors"
+                    >
+                      <FaMedium /> Article
+                    </motion.a>
+                  )}
+
                   <motion.a
                     href={project.github}
                     target="_blank"
@@ -100,8 +124,9 @@ const Projects = ({ content, githubUrl = '#' }: { content: Project[]; githubUrl?
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="inline-block px-8 py-4 glass rounded-full font-semibold text-white"
+            className="inline-flex items-center gap-2 px-8 py-4 glass rounded-full font-semibold text-white"
           >
+            <FaExternalLinkAlt />
             View All Projects on GitHub
           </motion.a>
         </motion.div>
